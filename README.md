@@ -67,6 +67,7 @@ The receipt string represents the transaction returned from a channel or product
 purchase.
 
 A Shared secret and user ID is required.
+## [rokify](https://aapks.com/apk/remote-cast-for-roku/)
 
 **The response**
 
